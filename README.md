@@ -54,26 +54,26 @@ Management needed quick, accurate insights on:
 ## 📈 Key Features Implemented
 
 ### Data Quality Management
-✅ Email validation using regex patterns
-✅ Negative amount detection and handling
-✅ Date range validation (booking dates vs. check-in dates)
-✅ Missing value imputation strategies
-✅ Duplicate record identification and removal
-✅ Status field standardization (typo correction)
+- Email validation using regex patterns
+- Negative amount detection and handling
+- Date range validation (booking dates vs. check-in dates)
+- Missing value imputation strategies
+- Duplicate record identification and removal
+- Status field standardization (typo correction)
 
 ### Data Pipeline Automation
-✅ Automated CSV ingestion using Snowflake Stages
-✅ Three-layer transformation logic (Bronze → Silver → Gold)
-✅ Incremental data loading capability
-✅ Error handling and data quality checks
+- Automated CSV ingestion using Snowflake Stages
+- Three-layer transformation logic (Bronze → Silver → Gold)
+- Incremental data loading capability
+- Error handling and data quality checks
 
 ### Business Intelligence Dashboard
-✅ Monthly revenue trends (line chart)
-✅ Monthly bookings volume (line chart)
-✅ Top 5 revenue-generating cities (bar chart)
-✅ Booking type distribution (bar chart)
-✅ Booking status breakdown (bar chart)
-✅ KPI cards: Total Revenue, Total Bookings
+- Monthly revenue trends (line chart)
+- Monthly bookings volume (line chart)
+- Top 5 revenue-generating cities (bar chart)
+- Booking type distribution (bar chart)
+- Booking status breakdown (bar chart)
+- KPI cards: Total Revenue, Total Bookings
 
 ## 📊 Dashboard Visualizations
 
@@ -85,11 +85,11 @@ The Snowsight dashboard provides:
 - **Status Monitoring:** Track confirmed, pending, and cancelled bookings
 
 ## 🎯 Business Impact & Deliverables
-✅ **Accurate monthly metrics** - Clean data enables reliable trend analysis
-✅ **Correct KPIs** - No data quality issues in final output
-✅ **Easy-to-interpret dashboard** - Management can make quick decisions
-✅ **Automated pipeline** - Reduces manual data processing time
-✅ **Scalable architecture** - Can handle growing data volumes
+- **Accurate monthly metrics** - Clean data enables reliable trend analysis
+- **Correct KPIs** - No data quality issues in final output
+- **Easy-to-interpret dashboard** - Management can make quick decisions
+- **Automated pipeline** - Reduces manual data processing time
+- **Scalable architecture** - Can handle growing data volumes
 
 ## 📚 Lessons Learned
 
